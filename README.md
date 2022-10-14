@@ -8,12 +8,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Bloco 1: [Introdução - Unix & Shell](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/01-fundamentos/bloco-01-unix-e-bash)
 
 - [ ] 1-3: _Unix & Shell- Part 1_
 - [ ] 1-4: _Unix & Shell- Part 2_
 
-##### Bloco 2: Git & GitHub
+##### Bloco 2: [Git & GitHub](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/01-fundamentos/bloco-01-unix-e-bash/dia-02-unix-e-bash-part-2)
 
 - [ ] 2-1: _O que é e para que serve?_
 - [ ] 2-2: _Entendendo os comandos_
