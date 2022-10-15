@@ -6,7 +6,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## [Fundamentos do Desenvolvimento Web](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/01-fundamentos):heavy_check_mark:
+## [Fundamentos do Desenvolvimento Web](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/01-fundamentos) :heavy_check_mark:
 
 ##### Bloco 1: [Introdução - Unix & Shell](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/01-fundamentos/bloco-01-unix-e-bash)
 
@@ -71,4 +71,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [ ] 8.6 - Projeto - Zoo functions
 
-## [Desenvolvimento Front-end](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/02-front-end):heavy_check_mark:
+## [Desenvolvimento Front-end](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/02-front-end)       :heavy_check_mark:
