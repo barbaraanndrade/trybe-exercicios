@@ -132,3 +132,143 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 #### Bloco 10: Projeto App de Receitas
 - [ ] 10.1 - Projeto - App de Receitas
 
+## [Desenvolvimento Back-end](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end)  :heavy_check_mark:
+
+#### Bloco 01: [Docker: Utilizando Containers](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-01-docker-utilizando-containers)
+
+- [ ] 1.1 - Utilizando Containers - Docker
+- [ ] 1.2 - Manipulando Imagens no Docker
+- [ ] 1.3 - Orquestrando Containers com Docker Compose
+- [ ] 1.4 - Projeto - Docker Todo-List 
+
+#### Bloco 02: [Introdução à SQL](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-02-introducao-a-sql)
+
+- [ ] 2.1 - Banco de dados SQL
+- [ ] 2.2 - Encontrando dados em banco de dados
+- [ ] 2.3 - Filtrando dados de forma específica
+- [ ] 2.4 - Manipulando tabelas
+- [ ] 2.5 - Projeto - All For One 
+
+#### Bloco 03: [Funções SQL, JOINs e Normalização](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-03-funcoes-sql-joins-e-normalizacao)
+
+- [ ] 3.1 - Funções mais usadas no SQL
+- [ ] 3.2 - Descomplicando JOINs
+- [ ] 3.3 - Transformando ideias em um modelo de banco de dados
+- [ ] 3.4 - Projeto - Aula ao vivo + Projetos - One For All 
+
+#### Bloco 04: [Introdução ao desenvolvimento Web com Node.js](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-04-introducao-ao-desenvolvimento-web-com-nodejs)
+
+- [ ] 4.1 - Node.js - Runtime Assíncrono
+- [ ] 4.2 - Node.js - API REST com Express
+- [ ] 4.3 - Node.js - Testes de Integração
+- [ ] 4.4 - Node.js - Express e Middlewares
+- [ ] 4.5 - Node.js - Express e MySQL
+- [ ] 4.6 - Projeto - Atividade + Projeto - Talker Manager 
+
+#### Bloco 05: [Arquitetura de Software: Model, Service e Controller](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-05-arquitetura-de-software-model-service-e-controller)
+
+- [ ] 5.1 - Arquitetura de Software: Camada Model
+- [ ] 5.2 - Arquitetura de Software: Camada Service
+- [ ] 5.3 - Arquitetura de Software: Camada Controller
+- [ ] 5.4 - Projeto - Store Manager 
+
+#### Bloco 06: [Node.js: ORM e Autenticação](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-06-nodejs-orm-e-autenticacao)
+
+- [ ] 6.1 - ORM - Interface de aplicação com o banco de dados
+- [ ] 6.2 - ORM - Associations 1:1 e 1:N
+- [ ] 6.3 - ORM - Associations N:N e Transactions
+- [ ] 6.4 - JWT - (JSON web token)
+- [ ] 6.5 - Projeto - API de Blogs 
+
+#### Bloco 07: [Deployment](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-07-deployment)
+
+- [ ] 7.1 - Infraestrutura - Deploy com Heroku
+- [ ] 7.2 - Deploy Docker & Heroku
+- [ ] 7.3 - Projeto - Stranger Things 
+
+#### Bloco 08: [Introdução a TypeScript](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-08-introducao-a-typescript)
+
+- [ ] 8.1 - Introdução ao TypeScript
+- [ ] 8.2 - Tipagem Estática e Generics
+- [ ] 8.3 - Express com TypeScript
+- [ ] 8.4 - Projeto - Trybesmith
+
+#### Bloco 09: [Programação Orientada a Objetos (POO) e SOLID](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-09-programacao-orientada-a-objetos-poo-e-solid)
+
+- [ ] 9.1 - Introdução à Orientação a Objetos
+- [ ] 9.2 - Herança e Interfaces
+- [ ] 9.3 - Polimorfismo
+- [ ] 9.4 - SOLID - Introdução e Princípios S, O e D
+- [ ] 9.5 - SOLID - Princípios L e I
+- [ ] 9.6 - Projeto - Trybers and Dragons 
+
+#### Bloco 10: [Projeto - TFC - Trybe Futebol Clube]
+- [ ] 10.1 - Projeto - TFC - Trybe Futebol Clube 
+
+#### Bloco 11: [Introdução ao MongoDB](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-11-introducao-ao-mongodb)
+
+- [ ] 11.1 - MongoDB - Introdução
+- [ ] 11.2 - Filter Operators
+- [ ] 11.3 - Operadores de consulta
+- [ ] 11.4 - Updates simples
+- [ ] 11.5 - Updates Complexos - Arrays
+- [ ] 11.6 - Projeto - Commecer 
+
+#### Bloco 12: [MongoDB com Node.js e POO](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-12-mongodb-com-nodejs-e-poo)
+
+- [ ] 12.1 - Mongoose e arquitetura MSC (Camada Model)
+- [ ] 12.2 - Mongoose e arquitetura MSC (Camada Service e Controller)
+- [ ] 12.3 - Projeto - Car Shop 
+
+#### Bloco 13: Projeto - App de Delivery
+
+- [ ] 13.1 - Projeto - App de Delivery 
+
+#### Bloco 14: [MasterClass - VPS, CI/CD](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/03-back-end/bloco-14-masterclass-vps-ci-cd)
+
+- [ ] 12.1 - VPS
+- [ ] 12.2 - Dia 02
+
+## [Ciência da Computação](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/04-ciencia-da-computacao) :heavy_check_mark:
+
+#### Bloco 1: [Introdução à Python](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/04-ciencia-da-computacao/bloco-01-introducao-a-python)
+
+- [ ] 1.1 - Aprendendo Python
+- [ ] 1.2 - Entrada e Saída de Dados
+- [ ] 1.3 - Testes
+- [ ] 1.4 - Projeto - Job Insights
+
+#### Bloco 2: [Padrões de Projeto](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/04-ciencia-da-computacao/bloco-02-padroes-de-projeto)
+
+- [ ] 2.1 - P.O.O em Python
+- [ ] 2.2 - Padrões - Iterator, Adapter, Strategy
+- [ ] 2.3 - Padrões - Decorator, Observer, Factory
+- [ ] 2.4 - Projeto - Relatórios de Estoque
+
+#### Bloco 3: [Redes e Raspagem de Dados](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/04-ciencia-da-computacao/bloco-03-redes-e-raspagem-de-dados)
+
+- [ ] 3.1 - Arquitetura de redes
+- [ ] 3.2 - Raspagem de Dados
+- [ ] 3.3 - Outras Ferramentas de Raspagem de Dados
+- [ ] 3.4 - Projeto - Tech news
+
+#### Bloco 4: [Algoritmos](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/04-ciencia-da-computacao/bloco-04-algoritmos)
+
+- [ ] 4.1 - Complexidade de Algoritmos
+- [ ] 4.2 - Recursividade e Estratégias para solução de problemas
+- [ ] 4.3 - Algoritmos de ordenação e busca
+- [ ] 4.4 - Projeto - Algoritmos
+
+#### Bloco 5: [Estrutura de Dados I: Arrays, Listas, Filas e Pilhas](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/04-ciencia-da-computacao/bloco-05-estrutura-de-dados-1-arrays-listas-filas-e-pilhas)
+
+- [ ] 5.1 - Arquitetura de Computadores
+- [ ] 5.2 - Arrays
+- [ ] 5.3 - Nó e Listas Encadeadas
+- [ ] 5.4 - Pilhas e Filas
+- [ ] 5.4 - Projeto - TING - Trybe Is Not Google
+
+#### Bloco 6: [Estrutura de Dados II: Hashmaps e Sets](https://github.com/barbaraanndrade/trybe-exercicios/tree/main/04-ciencia-da-computacao/bloco-06-estrutura-de-dados-2-hashmaps-e-sets)
+
+- [ ] 6.1 - Hashmap e Dict
+- [ ] 6.2 - Set
+- [ ] 6.3 - Projeto - Restaurant Orders
