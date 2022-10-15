@@ -1,4 +1,4 @@
-# Trybe
+# Trybe - Exercícios
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por mim _[Bárbara Andrade](https://www.linkedin.com/in/barbaraanndrade/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
